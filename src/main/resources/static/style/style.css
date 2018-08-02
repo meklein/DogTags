@@ -1,0 +1,73 @@
+header {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #fff;
+}
+header h1{
+    color: dodgerblue;
+    font-size: 3em;
+    text-shadow: black 1px 3px 2px;
+}
+header h2{
+    font-size: 2em;
+}
+
+.login{
+    padding: 30px;
+    min-height: 415px;
+}
+
+hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid dodgerblue;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+.backgroundPic{
+	background-image: url(http://zvah.com/clients/12040/images/Group-Of-Cats-And-Dogs-_transparent.png); 
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 375px;
+    padding-bottom: 10px;
+}
+
+.regPic{
+    background-image: url(http://images2.fanpop.com/image/photos/13600000/Dog-wallpaper-dogs-13632654-1280-800.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+
+button{
+    margin-bottom: 10px;
+}
+    
+
+footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.anton{
+    font-family: 'Anton', sans-serif;
+}
+.cabin{
+    font-family: 'Cabin', sans-serif;
+}
+.minHeight{
+	min-height: 300px;
+}
+
+.petName{
+	font-size: 2em;
+}
+.petInfo{
+	font-size: 1em;
+	font-weight: bold;
+}
+
